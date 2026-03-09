@@ -12,7 +12,7 @@ I cut through noise, turn chaos into momentum, and keep executives operating at 
 
 ---
 
-## 🧱 Strategic EA as Force Multiplier
+## 🧱 C-suite Force Multiplier
 
 ### 🎯 Executive Enablement
 Keeps leaders focused, informed, and aligned.
