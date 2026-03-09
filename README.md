@@ -29,7 +29,7 @@ Exec comms.
 Navigates M&A, integrations, and org redesign.
 
 ### 📆 Core EA Strengths
-Global calendars, travel & logistics 
+Global calendars, event operations, international travel, and expenses.
 
 ---
 
