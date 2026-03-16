@@ -1,5 +1,5 @@
 # Lisa Klosowski  
-## Strategic CEO Executive Assistant | Chief of Staff | Transformation & Operations Leader
+## Strategic CEO Executive Assistant | Transformation & Operations Leader | Chief of Staff
 
 ---
 
