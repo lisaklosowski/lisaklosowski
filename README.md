@@ -23,6 +23,7 @@
 ## 📈 Business Operations
 - Process Building: Reduces friction with practical, scalable workflows.
 - Executive Cadence: Builds leadership rhythms that drive accountability and decision-making.
+- Calendar management: Shapes time around the decisions, relationships, and priorities that move the business forward.
 - Self-service Infrastructure: Built 50+ resource hub improving onboarding, policy access, and operational clarity.
   
 ## 🛠️ Agile Project Management
