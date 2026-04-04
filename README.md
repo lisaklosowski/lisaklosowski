@@ -10,25 +10,25 @@
 ---
 
 ## ⚡ C-suite Force Multiplier
-### I build the operational systems companies need to scale, cutting through the noise to turn chaos into momentum. When strategy shifts, I bring clarity and alignment that keeps leaders ahead of the curve. If it needs structure or a push forward, I’m on it.
+### Works in close partnership with the CEO, extending their reach across the org, translating intent into action, and bringing clarity to priorities.
 
 ---
 
-## 🏗️ Strategic Transformation
-- CEO Support: Trusted thought partner during organizational changes.
-- Cross-Functional Alignment: Keep leadership teams focused on high-level business goals.
-- Global Governance: Rewrote global handbooks and T&E policies to reduce risk.
-- Real Estate & RTO: Managed strategy and logistics for a 20-office global portfolio and Return-to-Office planning.
+## 🏗️ Strategic Partner & Transformation Support
+- CEO Support: Trusted thought partner protects executive focus.
+- Cross-Functional Alignment: Keeps teams focused on priorities and goals.
+- Global Governance: Develops clear, practical policies and handbooks that reduce risk, strengthen culture, and support scale.
+- Real Estate & RTO: Manages 20‑office global portfolio, including Return‑to‑Office planning and change management.
 
 ## 📈 Business Operations
-- Process Building: Built scalable admin systems and optimized workflows to expand leadership's reach.
-- Executive Cadence: Designed dashboards and meeting structures that moved leadership from hearing updates to making decisions.
-- Infrastructure: Built 50+ resource self-service hub to reduce repetitive process and policy questions.
+- Process Building: Reduces friction with practical, scalable workflows.
+- Executive Cadence: Builds leadership rhythms that drive accountability and decision-making.
+- Self-service Infrastructure: Built 50+ resource hub improving onboarding, policy access, and operational clarity.
   
 ## 🛠️ Agile Project Management
-- Global Rollouts: Led two SAP Concur implementations for 600+ employees, including documentation and onboarding.
-- Acquisitions: Aligned integration of three media brands and multiple design companies.
-- Compliance & Audit: Led a U.S. Customs audit team to a "No-Fault" judgment. Built processes to reduce future risk.  
+- Enterprise Systems Implementation: Led two SAP Concur implementations and supported deployments of Manhattan Associates WMS, JDA (Blue Yonder), and proprietary import‑tracking software.
+- Acquisitions: Drove cross‑functional alignment across acquired brands and supported M&A due diligence.
+- Compliance & Audit: Directed U.S. Customs audit response to a No-Fault judgment and built processes to reduce future risk.
   
 ---
 
@@ -42,9 +42,9 @@
 ---
 
 ## 🧰 The Toolkit
-- ⚙️ Ops: Monday.com, Asana, Notion, Salesforce, Workday, PMP-trained
-- 💬 Collaboration: Gmail, Outlook, Slack, Zoom, Teams 
-- 🤖 Next-Gen: AI prompting for data analysis, reporting, and communications
+- ⚙️ Ops: Monday.com, Asana, Notion, Salesforce, Workday. PMP-trained.
+- 💬 Collaboration: Gmail, Outlook, Slack, Zoom, Teams.
+- 🤖 AI & Automation: Actively learning AI tools to streamline summaries, analysis, and communication.
 
 ---
 
