@@ -21,13 +21,13 @@
 - Real Estate & RTO: Manages 20‑office global portfolio, including Return‑to‑Office planning and change management.
 
 ## 📈 Business Operations
-- Process Building: Reduces friction with practical, scalable workflows.
 - Executive Cadence: Builds leadership rhythms that drive accountability and decision-making.
 - Calendar management: Shapes time around the decisions, relationships, and priorities that move the business forward.
+- Process Building: Reduces friction with practical, scalable workflows.
 - Self-service Infrastructure: Built 50+ resource hub improving onboarding, policy access, and operational clarity.
   
 ## 🛠️ Agile Project Management
-- Enterprise Systems Implementation: Led two SAP Concur implementations and supported deployments of Manhattan Associates WMS, JDA (Blue Yonder), and proprietary import‑tracking software.
+- Enterprise Systems: Led two SAP Concur implementations and supported deployments of Manhattan Associates WMS, JDA (Blue Yonder), and proprietary import‑tracking software.
 - Acquisitions: Drove cross‑functional alignment across acquired brands and supported M&A due diligence.
 - Compliance & Audit: Directed U.S. Customs audit response to a No-Fault judgment and built processes to reduce future risk.
   
