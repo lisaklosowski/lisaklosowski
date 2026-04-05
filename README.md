@@ -45,7 +45,7 @@
 ## 🧰 The Toolkit
 - ⚙️ Ops: Monday.com, Asana, Notion, Salesforce, Workday. PMP-trained.
 - 💬 Collaboration: Gmail, Outlook, Slack, Zoom, Teams.
-- 🤖 AI & Automation: Actively learning AI tools to streamline summaries, analysis, and communication.
+- 🤖 AI & Automation: Actively learning AI tools to streamline analysis, reporting, and communication.
 
 ---
 
