@@ -1,5 +1,5 @@
 # Lisa Klosowski  
-## Strategic CEO Executive Assistant | Transformation & Operations Leader
+## Executive Operations Leader
 
 ---
 
@@ -10,7 +10,7 @@
 ---
 
 ## ⚡ C-suite Force Multiplier
-### Works in close partnership with the CEO, extending their reach across the org, translating intent into action, and bringing clarity to priorities.
+### Works in close partnership with CEOs, extending their reach across the org, translating intent into action, and bringing clarity to priorities.
 
 ---
 
