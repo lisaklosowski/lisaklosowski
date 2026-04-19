@@ -10,25 +10,25 @@
 ---
 
 ## ⚡ C-suite Force Multiplier
-### Works in close partnership with CEOs, extending their reach across the org, translating intent into action, and bringing clarity to priorities.
+### Works in close partnership with CEOs, extending their reach, translating intent into action, and bringing clarity to what matters most.
 
 ---
 
 ## 🏗️ Strategic Partner & Transformation Support
-- CEO Support: Trusted thought partner protects executive focus.
-- Cross-Functional Alignment: Keeps teams focused on priorities and goals.
-- Global Governance: Develops clear, practical policies and handbooks that reduce risk, strengthen culture, and support scale.
-- Real Estate & RTO: Manages 20‑office global portfolio, including Return‑to‑Office planning and change management.
+- CEO Support: Trusted thought partner who protects executive focus.
+- Cross-Functional Alignment: Keeps teams focused on priorities that move us forward.
+- Global Governance: Builds clear, practical policies and handbooks that strengthen culture and support scale.
+- Real Estate & RTO: Managed a 20‑office global portfolio, including RTO planning and change support.
 
 ## 📈 Business Operations
-- Executive Cadence: Builds leadership rhythms that drive accountability and decision-making.
-- Calendar management: Shapes time around the decisions, relationships, and priorities that move the business forward.
-- Process Building: Reduces friction with practical, scalable workflows.
-- Self-service Infrastructure: Built 50+ resource hub improving onboarding, policy access, and operational clarity.
+- Executive Cadence: Builds leadership rhythms that keep decisions moving and teams aligned.
+- Calendar management: Shapes time around the decisions, relationships, and priorities that matter most.
+- Process Building: Reduces friction with practical, repeatable workflows.
+- Self-service Infrastructure: Built a 50+ resource hub that strengthened onboarding and made everyday answers easier to access.
   
 ## 🛠️ Agile Project Management
-- Enterprise Systems: Led two SAP Concur implementations and supported deployments of Manhattan Associates WMS, JDA (Blue Yonder), and proprietary import‑tracking software.
-- Acquisitions: Drove cross‑functional alignment across acquired brands and supported M&A due diligence.
+- Enterprise Systems: Led two SAP Concur implementations and supported deployments of Manhattan Associates WMS, JDA (Blue Yonder), and a proprietary import‑tracking tool.
+- Acquisitions: Aligned teams across acquired brands and supported M&A due diligence.
 - Compliance & Audit: Directed U.S. Customs audit response to a No-Fault judgment and built processes to reduce future risk.
   
 ---
