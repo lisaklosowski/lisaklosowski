@@ -26,7 +26,7 @@
 - Process Building: Reduces friction with practical, repeatable workflows.
 - Self-service Infrastructure: Built a 50+ resource hub to standardize onboarding and ensure operational compliance.
   
-## 🛠️ Agile Project Management
+## 🛠️ Project Management | PMP-trained
 - Enterprise Systems: Led two SAP Concur implementations and supported deployments of Manhattan Associates WMS, JDA (Blue Yonder), and a proprietary import‑tracking tool.
 - Acquisitions: Aligned teams across acquired brands and supported M&A due diligence.
 - Compliance & Audit: Directed U.S. Customs audit response to a No-Fault judgment and built processes to reduce future risk.
@@ -43,7 +43,7 @@
 ---
 
 ## 🧰 The Toolkit
-- ⚙️ Ops: Monday.com, Asana, Notion, Salesforce, Workday. PMP-trained.
+- ⚙️ Ops: Monday.com, Asana, Notion, Salesforce, Workday.
 - 💬 Collaboration: Gmail, Outlook, Slack, Zoom, Teams.
 - 🤖 AI & Automation: Actively learning AI tools to develop agents, enhance analysis, streamline reporting, and enhance communication.
 
