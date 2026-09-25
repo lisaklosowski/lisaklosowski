@@ -17,14 +17,14 @@
 ## 🏗️ Strategic Partner & Transformation Support
 - CEO Support: Trusted thought partner who protects executive focus.
 - Cross-Functional Alignment: Keeps teams focused on priorities that move us forward.
-- Global Governance: Builds clear, practical policies and handbooks that strengthen culture and support scale.
+- Global Governance: Builds clear, practical policies that support scale.
 - Real Estate & RTO: Managed a 20‑office global portfolio, including RTO planning and change support.
 
 ## 📈 Business Operations
 - Executive Cadence: Builds leadership rhythms that keep decisions moving and teams aligned.
 - Calendar management: Shapes time around the decisions, relationships, and priorities that matter most.
 - Process Building: Reduces friction with practical, repeatable workflows.
-- Self-service Infrastructure: Built a 50+ resource hub that strengthened onboarding and made everyday answers easier to access.
+- Self-service Infrastructure: Built a 50+ resource hub to standardize onboarding and ensure operational compliance.
   
 ## 🛠️ Agile Project Management
 - Enterprise Systems: Led two SAP Concur implementations and supported deployments of Manhattan Associates WMS, JDA (Blue Yonder), and a proprietary import‑tracking tool.
@@ -45,7 +45,7 @@
 ## 🧰 The Toolkit
 - ⚙️ Ops: Monday.com, Asana, Notion, Salesforce, Workday. PMP-trained.
 - 💬 Collaboration: Gmail, Outlook, Slack, Zoom, Teams.
-- 🤖 AI & Automation: Actively learning AI tools to streamline analysis, reporting, and communication.
+- 🤖 AI & Automation: Actively learning AI tools to develop agents, enhance analysis, streamline reporting, and enhance communication.
 
 ---
 
