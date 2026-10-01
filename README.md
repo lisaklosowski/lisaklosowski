@@ -45,7 +45,7 @@
 ## 🧰 The Toolkit
 - ⚙️ Ops: Monday.com, Asana, Notion, Salesforce, Workday.
 - 💬 Collaboration: Gmail, Outlook, Slack, Zoom, Teams.
-- 🤖 AI & Automation: Actively learning AI tools to develop agents, enhance analysis, streamline reporting, and enhance communication.
+- 🤖 AI & Automation: Actively learning AI tools to develop agents, dashboards, and reporting that deepen strategic analysis and enhance communication.
 
 ---
 
