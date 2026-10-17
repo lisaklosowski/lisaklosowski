@@ -16,7 +16,7 @@
 
 ## 🏗️ Strategic Partner & Transformation Support
 - CEO Support: Trusted thought partner who protects executive focus.
-- Cross-Functional Alignment: Keeps teams focused on priorities that move us forward.
+- Cross-Functional Alignment: Manages deliverable accountability and keeps teams focused on priorities that move us forward.
 - Global Governance: Builds clear, practical policies that support scale.
 - Real Estate & RTO: Managed a 20‑office global portfolio, including RTO planning and change support.
 
